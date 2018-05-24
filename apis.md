@@ -1,18 +1,20 @@
 ---
 name: AppGlu
 x-slug: appglu
-description: AppGlu is a new mobile application platform that helps companies build
-  their apps faster and manage them better after launch.
-image: ""
+description: AppGlu provides custom branded Ready-to-Run mobile apps for sales teams
+  that can be created and customized in minutes.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1640-appglu.jpg
 x-kinRank: "7"
 x-alexaRank: ""
 tags: AppGlu
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appglu/master/_listings/appglu/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/appglu
 - type: x-crunchbase
   url: http://www.crunchbase.com/company/appglu
 - type: x-email
